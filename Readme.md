@@ -1,3 +1,15 @@
+# Internship Details:
+
+***COMPANY:*** CODTECH IT SOLUTIONS  
+***NAME:*** RANGDAL PAVANSAI  
+***INTERN ID:*** C0DF200  
+***DOMAIN:*** Artificial Intelligence Markup Language (AIML Internship)  
+***DURATION:*** 4 WEEKS
+***MENTOR:*** NEELA SANTHOSH
+
+
+
+--- 
 # ArticleSummarizer 📚✂️
 
 An elegant Python tool that uses TextRank algorithm to create concise summaries from lengthy articles.
@@ -75,6 +87,9 @@ ArticleSummarizer uses the TextRank algorithm from the Sumy library to extract t
 - Preview of the original article (first 500 characters)
 - Concise summary with the most important sentences
 
+## Output Image:  
+   <img src="output.png" alt="Summary" width="600"/>
+
 ## 📦 Dependencies
 
 - NLTK
@@ -83,16 +98,17 @@ ArticleSummarizer uses the TextRank algorithm from the Sumy library to extract t
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Pavansai/ArticleSummarizer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Pavansai20054/TEXT-SUMMARIZATION-TOOL/issues).
 
 ## 📝 License
 
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+This project is [MIT](LICENSE) licensed.
 
 ## 👨‍💻 Author
 
 **Pavansai**
 
-- Email: pavansai87654321@gmail.com
-- LinkedIn: [Rangdal Pavansai](https://www.linkedin.com/in/rangdal-pavansai/)
-- GitHub: [@Pavansai](https://github.com/Pavansai)
+- 📧 Email: pavansai87654321@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rangdal-pavansai/  
+- 🐙 GitHub: https://github.com/Pavansai
+
